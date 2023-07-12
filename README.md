@@ -11,3 +11,5 @@ get_water_level.R: convert the water level value into a list.
 create_month_year: input the start year, end year, start month, and end month to generate a list of DateTime.
 
 change_point.R: implement the change point pattern analysis. 
+
+![result](https://github.com/gisynw/Bayesian-Analysis-of-Change-Point-Problems/assets/25189735/b0cb0433-88ee-40e1-a9e8-c58c39dbeb02)
